@@ -2,6 +2,6 @@
 
 ### Hello there, I'm Sean 
 
-I am a software engineer. Here you will find my personal projects and experiments I have been working on. Also, I write about software engineering on my blog https://scalablehuman.com/.
+As a software engineer, I take great pleasure in embarking on personal projects and experiments that allow me to explore new frontiers within the field. On this platform, you will find a selection of these undertakings that I have worked on with great care. Moreover, I have taken to expressing my ideas and insights on the subject of software engineering on my personal blog, which can be accessed at https://scalablehuman.com/. :)
 
 
