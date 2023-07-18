@@ -1,6 +1,6 @@
 ![plot](./obi-gif.gif)
 
-👋 Well hello there, I'm Sean - a passionate software engineer with recent experience in Java, Spring Boot, JavaScript, ReactJS, Docker, Kubernetes, Helm, and AWS. I love building scalable microservices.
+👋 Well hello there, I'm Sean - a passionate software engineer with recent experience in Java, Spring Boot, JavaScript, ReactJS, Docker, Kubernetes, Helm, AWS and more. I love building scalable microservices.
 
 Throughout my career and academic journey, I've had the opportunity to explore a variety of programming languages and technologies including .NET Xamarin, PHP (Lavarel Framework) and Python. Although my current focus are on my areas of current experience, this diverse knowledge base has given me a broad and holistic understanding of software development.
 
