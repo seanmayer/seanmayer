@@ -1,15 +1,9 @@
 ![plot](./obi-gif.gif)
 
-👋 Well hello there, I'm Sean - a passionate software engineer with recent experience in Java, Spring Boot, JavaScript, ReactJS, Docker, Kubernetes, Helm, AWS and more. I love building scalable microservices.
+👋 I'm Sean, a software engineer proficient in Java, Spring Boot, JavaScript, ReactJS, Docker, Kubernetes, Helm, and AWS. I have diverse programming knowledge, including .NET Xamarin, PHP (Laravel Framework), and Python.
 
-Throughout my career and academic journey, I've had the opportunity to explore a variety of programming languages and technologies including .NET Xamarin, PHP (Lavarel Framework) and Python. Although my current focus are on my areas of current experience, this diverse knowledge base has given me a broad and holistic understanding of software development.
+🎓 I earned a First Class Honours degree in Software Engineering from Staffordshire University. As a former champion cyclist, I bring discipline and determination to my tech work.
 
-🎓 I hold a First Class Honours degree in Software Engineering from Staffordshire University. My academic background, coupled with my professional experience, has equipped me with a solid foundation in software engineering principles.
+🌱 I'm exploring AI tooling for developers and its ethical applications. In my free time, I share educational content on software engineering on GitHub and my blog, scalablehuman.com.
 
-🏆 As a former national sprint track cyclist with multiple titles under my belt, I'm no stranger to hard work, discipline, and the drive to win. I bring this same energy and determination to my work in the tech field.
-
-🌱 I'm currently on a mission to delve deeper into the rapidly evolving world of AI tooling for developers. I'm particularly interested in how these advancements can be harnessed to create ethical software that makes a genuine difference.
-
-👨‍💻 In my spare time, I contribute to the tech community by providing educational content on software engineering. You can find my comprehensive guides on building Spring Boot microservices and full-stack applications on GitHub, and I regularly share insights and tutorials on my blog, scalablehuman.com.
-
-🚀 My goal is to never stop learning and to always share my knowledge with others. If you're interested in collaborating or just want to say hi, feel free to reach out!
+🚀 I'm always learning and sharing my knowledge. Open for collaboration or friendly chats!
