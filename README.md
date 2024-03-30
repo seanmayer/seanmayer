@@ -19,6 +19,7 @@ human:
         - Java
         - C#
         - ReactJs
+        - Python
     experience: 7 years
     academicBackground:
       field: Software Engineering
