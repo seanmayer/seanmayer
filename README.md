@@ -14,6 +14,7 @@ human:
     industry: Fintech
     specializations:
       - IoT
+      - Microservices
       - Languages:
         - Java
         - C#
