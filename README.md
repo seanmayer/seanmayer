@@ -1,4 +1,4 @@
-```
+```yaml
 human:
   😶‍🌫️: {secret}
   name:
