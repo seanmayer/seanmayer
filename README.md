@@ -1,13 +1,13 @@
 ```yaml
 human:
-  😶‍🌫️: {secret}
+  age: {secret}
   name:
     firstname: sean
     lastname: mayer
   profession:
     title: software engineer
     industry: fintech
-    specializations:
+    specialisations:
       - iot
       - microservices
       - languages:
