@@ -1,49 +1,41 @@
-
-![plot](./obi-gif.gif)
-
-Hello there, I am Sean, welcome.
-
-```yaml
 human:
   😶‍🌫️: {secret}
-  Name:
-    firstName: Sean
-    lastName: Mayer
-  Profession:
-    title: Software Engineer
-    industry: Fintech
+  name:
+    firstname: sean
+    lastname: mayer
+  profession:
+    title: software engineer
+    industry: fintech
     specializations:
-      - IoT
-      - Microservices
-      - Languages:
-        - Java
-        - C#
-        - ReactJs
-        - Python
+      - iot
+      - microservices
+      - languages:
+        - java
+        - c#
+        - reactjs
+        - python
+        - kotlin (new)
     experience: 7 years
-    academicBackground:
-      field: Software Engineering
+    academicbackground:
+      field: software engineering
       experience: 7 years
-  Blogging:
+  blogging:
     topics:
-      - Productivity Technology
-      - Software Development
-    medium: Blogger
-  FavouriteFood: 🥩 Steak
-  Hobbies:
-    - 🏋️‍♂️ Gym
-    - 🎮 Gaming
-    - 🎧 Listening to Podcasts
-    - 📚 Reading Books
-  BookGenres:
-    - History
-    - Self Development
-    - Autobiographies
-  Interests:
-    - New Technology Advancements:
-      - AI
-      - Blockchain
-      - Programming Languages
-```
-
-
+      - productivity technology
+      - software development
+    medium: blogger
+  favouritefood: 🥩 steak
+  hobbies:
+    - 🏋️‍♂️ gym
+    - 🎮 gaming
+    - 🎧 listening to podcasts
+    - 📚 reading books
+  bookgenres:
+    - history
+    - self development
+    - autobiographies
+  interests:
+    - new technology advancements:
+      - ai
+      - blockchain
+      - programming languages
