@@ -16,10 +16,10 @@ human:
         - reactjs
         - python
         - kotlin (new)
-    experience: 7 years
+    industryExperience: 7 years
     academicbackground:
       field: software engineering
-      experience: 7 years
+      academicExperience: 7 years
   blogging:
     topics:
       - productivity technology
