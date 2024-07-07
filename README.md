@@ -1,6 +1,6 @@
 ```yaml
 human:
-  age: {secret}
+  age: 29
   name:
     firstname: sean
     lastname: mayer
