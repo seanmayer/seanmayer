@@ -37,7 +37,13 @@ human:
     - autobiographies
   interests:
     - new technology advancements:
+      - software engineering
       - ai
       - blockchain
       - programming languages
+      - algo trading (new)
+    - health and fitness:
+      - cycling (ex-competitive sprint track cyclist)
+      - weightlifting
+      - sleep
 ```
