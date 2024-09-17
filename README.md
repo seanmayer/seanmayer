@@ -15,7 +15,7 @@ human:
         - c#
         - reactjs
         - python
-        - kotlin (new)
+        - kotlin
     industryExperience: 7 years
     academicbackground:
       field: software engineering
