@@ -25,24 +25,24 @@ human:
       - productivity technology
       - software development
     medium: blogger
-  favouritefood: 🥩 steak
+  favouriteFood: 🥩 steak
   hobbies:
     - 🏋️‍♂️ gym
     - 🎮 gaming
     - 🎧 listening to podcasts
     - 📚 reading books
-  bookgenres:
+  bookGenres:
     - history
     - self development
     - autobiographies
   interests:
-    - new technology advancements:
+    - newTechnologyAdvancements:
       - software engineering
       - ai
       - blockchain
       - programming languages
       - algo trading (new)
-    - health and fitness:
+    - healthAndfitness:
       - cycling (ex-competitive sprint track cyclist)
       - weightlifting
       - sleep
