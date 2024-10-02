@@ -2,8 +2,8 @@
 human:
   age: 29
   name:
-    firstname: sean
-    lastname: mayer
+    firstName: sean
+    lastName: mayer
   profession:
     title: software engineer
     industry: fintech
@@ -11,13 +11,13 @@ human:
       - iot
       - microservices
       - languages:
-        - java
+        - java (current focus)
         - c#
         - reactjs
         - python
         - kotlin
     industryExperience: 7 years
-    academicbackground:
+    academicBackground:
       field: software engineering
       academicExperience: 7 years
   blogging:
