@@ -1,6 +1,6 @@
 ```yaml
 human:
-  age: 29
+  version: 29
   name:
     firstName: sean
     lastName: mayer
@@ -8,7 +8,7 @@ human:
     title: software engineer
     industry: fintech
     specialisations:
-      - iot
+      - IoT
       - microservices
       - languages:
         - java (current focus)
