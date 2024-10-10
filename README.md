@@ -2,20 +2,26 @@
 human:
   version: 29
   name:
-    firstName: sean
-    lastName: mayer
+    firstName: Sean
+    lastName: Mayer
   profession:
     title: software engineer
     industry: fintech
     specialisations:
       - IoT
       - microservices
+      - gateways
+      - apis
       - languages:
         - java (current focus)
         - c#
         - reactjs
         - python
         - kotlin
+      - additional:
+        - k8s
+        - docker
+        - swarm
     industryExperience: 7 years
     academicBackground:
       field: software engineering
