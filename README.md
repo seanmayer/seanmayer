@@ -30,7 +30,6 @@ human:
     topics:
       - productivity technology
       - software development
-    medium: blogger
   favouriteFood: 🥩 steak
   hobbies:
     - 🏋️‍♂️ gym
