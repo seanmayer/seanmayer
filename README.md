@@ -13,7 +13,7 @@ human:
       - gateways
       - apis
       - languages:
-        - java (current focus)
+        - java
         - c#
         - reactjs
         - python
