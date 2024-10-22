@@ -1,54 +1,62 @@
 ```yaml
+
 human:
-  version: 29
+  age: 29
   name:
     firstName: Sean
     lastName: Mayer
   profession:
-    title: software engineer
-    industry: fintech
-    specialisations:
-      - IoT
-      - microservices
-      - gateways
-      - apis
-      - languages:
-        - java
-        - c#
-        - reactjs
-        - python
-        - kotlin
-      - additional:
-        - k8s
-        - docker
-        - swarm
+    title: Software Engineer
+    industry: FinTech
     industryExperience: 7 years
     academicBackground:
-      field: software engineering
+      field: Software Engineering
       academicExperience: 7 years
+    specialisations:
+      - category: Domains
+        items:
+          - IoT
+          - Microservices
+          - Gateways
+          - APIs
+      - category: Languages
+        items:
+          - Java
+          - C#
+          - ReactJS
+          - Python
+          - Kotlin
+      - category: Tools
+        items:
+          - Kubernetes
+          - Docker
+          - Swarm
   blogging:
     topics:
-      - productivity technology
-      - software development
-  favouriteFood: 🥩 steak
+      - Productivity Technology
+      - Software Development
+  favouriteFood: 🥩 Steak
   hobbies:
-    - 🏋️‍♂️ gym
-    - 🎮 gaming
-    - 🎧 listening to podcasts
-    - 📚 reading books
+    - 🏋️‍♂️ Gym
+    - 🎮 Gaming
+    - 🎧 Listening to Podcasts
+    - 📚 Reading Books
   bookGenres:
-    - history
-    - self development
-    - autobiographies
+    - History
+    - Self-Development
+    - Autobiographies
   interests:
-    - newTechnologyAdvancements:
-      - software engineering
-      - ai
-      - blockchain
-      - programming languages
-      - algo trading (new)
-    - healthAndfitness:
-      - cycling (ex-competitive sprint track cyclist)
-      - weightlifting
-      - sleep
+    - category: New Technology Advancements
+      items:
+        - Software Engineering
+        - AI
+        - Blockchain
+        - Programming Languages
+        - Algorithmic Trading
+    - category: Health and Fitness
+      items:
+        - Cycling (ex-competitive sprint track cyclist)
+        - Weightlifting
+        - Sleep
+
 ```
