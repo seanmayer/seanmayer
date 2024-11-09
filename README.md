@@ -22,6 +22,7 @@ human:
         items:
           - Java
           - C#
+          - JavaScript
           - ReactJS
           - Python
           - Kotlin
