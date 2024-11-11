@@ -20,7 +20,7 @@ human:
           - APIs
       - category: Languages
         items:
-          - Java
+          - ☕️Java
           - C#
           - JavaScript
           - ReactJS
