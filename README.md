@@ -1,3 +1,6 @@
+
+![plot](./obi-gif.gif)
+
 ```yaml
 human:
   age: 29
