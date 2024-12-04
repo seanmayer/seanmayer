@@ -54,7 +54,7 @@ human:
     - category: New Technology Advancements
       items:
         - Software Engineering
-        - AI
+        - AI (Prompt engineering)
         - Blockchain
         - Programming Languages
         - Algorithmic Trading
