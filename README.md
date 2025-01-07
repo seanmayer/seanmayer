@@ -8,11 +8,11 @@ human:
     firstName: Sean
     lastName: Mayer
   profession:
-    title: Software Engineer
-    industryExperience: 7 years
-    currentIndustry: Fintech
+    title: 👨‍💻Software Engineer
+    industryExperience: 3 years
+    currentIndustry: 💸Fintech
     previousIndustries:
-      - energy technology solutions
+      - ☢️energy technology solutions (5 years)   
     academicBackground:
       field: Software Engineering
       academicExperience: 7 years
