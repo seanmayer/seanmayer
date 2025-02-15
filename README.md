@@ -9,13 +9,11 @@ human:
     lastName: Mayer
   profession:
     title: Software Engineer
-    industryExperience: 3 years
-    currentIndustry: Fintech
+    currentIndustry: Fintech (3 years)
     previousIndustries:
-      - ☢energy technology solutions  
+      - ☢energy technology solutions (4 years)
     academicBackground:
-      field: Software Engineering
-      academicExperience: 7 years
+      field: Software Engineering (7 years)
     specialisations:
       - category: Domains
         items:
