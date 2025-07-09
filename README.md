@@ -8,58 +8,85 @@ human:
     firstName: Sean
     lastName: Mayer
   profession:
-    title: Software Engineer
-    currentIndustry: Fintech (3 years)
+    title: 💻 Software Engineer
+    currentIndustry: 💰 Fintech (3 years)
     previousIndustries:
-      - ☢energy technology solutions (4 years)
+      - ☢️ Energy Technology Solutions (4 years)
+      - 🏭 Industrial Automation & Control Systems Integration
     academicBackground:
-      field: Software Engineering (7 years)
+      field: 🎓 Software Engineering (7 years)
     specialisations:
-      - category: Domains
+      - category: 🌐 Domains
         items:
-          - IoT
-          - Microservices
-          - Gateways
-          - APIs
-      - category: Languages
+          - 🌎 IoT
+          - 🏗️ Microservices
+          - 🚪 Gateways
+          - 🔌 APIs
+          - 🤖 AI Integrations (SpringAI / Node.js / Prompt Engineering)
+          - 📈 Algorithmic Trading
+      - category: 🖥️ Languages
         items:
-          - ☕️Java
-          - C#
-          - JavaScript
-          - ReactJS
-          - Python
-          - Kotlin
-      - category: Tools
+          - ☕️ Java
+          - ⚙️ JavaScript (Node.js, Express)
+          - 🐍 Python
+          - 🅺 Kotlin
+          - #️⃣ C#
+          - ⚛️ ReactJS
+          - 📝 Markdown (blog formatting & SEO optimisation)
+          - 🗂️ YAML / JSON (automation / blogging / pipelines)
+      - category: 🛠️ Tools
         items:
-          - Kubernetes
-          - Docker
-          - Swarm
+          - ☸️ Kubernetes
+          - 🐳 Docker
+          - 🐝 Swarm
+          - ⚙️ Jenkins
+          - 🐙 GitHub Actions
+          - 🖊️ VS Code
+          - 💡 IntelliJ / JetBrains Gateway + WSL
+          - 🌐 WordPress API
+          - 🏠 Home Assistant
+          - 🏡 Homebridge
+          - 🔄 Node-RED
+          - 🍓 Raspberry Pi
   blogging:
     topics:
-      - Productivity Technology
-      - Software Development
+      - ⏱️ Productivity Technology
+      - 💻 Software Development
+      - 🤖 AI Integrations
+      - ☁️ Kubernetes / Cloud Development
+      - 🏠 Home Automation
+      - 🏋️‍♂️ Fitness & Recovery for Tech Professionals
   favouriteFood: 🥩 Steak
   hobbies:
-    - 🏋️‍♂️ Gym
+    - 🏋️‍♂️ Gym (Strength Training, Deadlifting, Mobility Work)
+    - 🚀 Home Automation Projects
     - 🎮 Gaming
-    - 🎧 Listening to Podcasts
+    - 🎧 Listening to Podcasts (incl. 🎭 Comedy for balance)
     - 📚 Reading Books
+    - 🛠️ DIY / Home Improvement
   bookGenres:
-    - History
-    - Self-Development
-    - Autobiographies
+    - 📜 History
+    - 📈 Self-Development
+    - 👤 Autobiographies
+    - 🤖 Practical Technology (AI, Software)
   interests:
-    - category: New Technology Advancements
+    - category: 🚀 New Technology Advancements
       items:
-        - Software Engineering
-        - AI (Prompt engineering)
-        - Blockchain
-        - Programming Languages
-        - Algorithmic Trading
-    - category: Health and Fitness
+        - 💻 Software Engineering
+        - 🤖 AI (Prompt Engineering / LLM Comparisons / Automation)
+        - 🪙 Blockchain
+        - 🖥️ Programming Languages
+        - 📈 Algorithmic Trading
+        - 🌎 IoT / Smart Home Integration
+    - category: 💪 Health and Fitness
       items:
-        - Cycling (ex-competitive sprint track cyclist)
-        - Weightlifting
-        - Sleep
-
+        - 🏋️‍♂️ Weightlifting (current strength training focus)
+        - 😴 Sleep / Recovery Optimisation
+        - 🏃‍♂️ Cardio Fitness (Tabata / HIIT / Zone 5 training)
+        - 🧘‍♂️ Mobility / Longevity Training
+    - category: 🏡 Home & Lifestyle
+      items:
+        - 🏠 Smart Home Automation
+        - ☀️ Solar / Home Energy Monitoring
+        - 🛠️ DIY & Home Improvements
 ```
