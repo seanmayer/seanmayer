@@ -61,7 +61,7 @@ human:
     - 🏋️‍♂️ Gym (Strength Training, Deadlifting, Mobility Work)
     - 🚀 Home Automation Projects
     - 🎮 Gaming
-    - 🎧 Listening to Podcasts (incl. 🎭 Comedy for balance)
+    - 🎧 Listening to Podcasts
     - 📚 Reading Books
     - 🛠️ DIY / Home Improvement
   bookGenres:
@@ -83,10 +83,8 @@ human:
         - 🏋️‍♂️ Weightlifting (current strength training focus)
         - 😴 Sleep / Recovery Optimisation
         - 🏃‍♂️ Cardio Fitness (Tabata / HIIT / Zone 5 training)
-        - 🧘‍♂️ Mobility / Longevity Training
     - category: 🏡 Home & Lifestyle
       items:
         - 🏠 Smart Home Automation
-        - ☀️ Solar / Home Energy Monitoring
         - 🛠️ DIY & Home Improvements
 ```
