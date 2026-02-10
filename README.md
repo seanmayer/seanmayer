@@ -80,8 +80,4 @@ human:
         - 🏋️‍♂️ Weightlifting (current strength training focus)
         - 😴 Sleep / Recovery Optimisation
         - 🏃‍♂️ Cardio Fitness (Tabata / HIIT / Zone 5 training)
-    - category: 🏡 Home & Lifestyle
-      items:
-        - 🏠 Smart Home Automation
-        - 🛠️ DIY & Home Improvements
 ```
