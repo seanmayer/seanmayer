@@ -23,6 +23,7 @@ human:
           - 📈 Algorithmic Trading
       - category: 🖥️ Languages
         items:
+          - 🙌 Language agnostic
           - ☕️ Java
           - ⚙️ JavaScript (Node.js, Express)
           - 🐍 Python
@@ -45,6 +46,7 @@ human:
           - 🏡 Homebridge
           - 🔄 Node-RED
           - 🍓 Raspberry Pi
+          - 🪲 Thingworx
   blogging:
     topics:
       - ⏱️ Productivity Technology
