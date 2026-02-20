@@ -40,6 +40,12 @@ human:
           - ⚙️ Jenkins
           - 🐙 GitHub Actions
           - 🖊️ VS Code
+          - 🏹 Cursor
+          - ⚪️ OpenAI Codex
+          - 💨 Claude Code
+          - 🤖 Github Copilot
+          - 💎 Gemini 
+          - 🪐 Jupyter Notebook
           - 💡 IntelliJ / JetBrains Gateway + WSL
           - 🌐 WordPress API
           - 🏠 Home Assistant
