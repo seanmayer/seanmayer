@@ -78,7 +78,7 @@ human:
     - category: 🚀 New Technology Advancements
       items:
         - 💻 Software Engineering
-        - 🤖 AI (Prompt Engineering / LLM Comparisons / Automation)
+        - 🤖 AI (Prompt Engineering / LLM Comparisons / Automation / Agentic workflows)
         - 🪙 Blockchain
         - 🖥️ Programming Languages
         - 📈 Algorithmic Trading
