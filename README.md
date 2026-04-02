@@ -5,15 +5,15 @@ human:
     firstName: Sean
     lastName: Mayer
   profession:
-    title: 💻 Software Engineer
-    currentIndustry: 💰 Fintech (3 years)
+    title: Software Engineer
+    currentIndustry: Fintech (3 years)
     previousIndustries:
-      - ☢️ Energy Technology Solutions (4 years)
-      - 🏭 Industrial Automation & Control Systems Integration
+      - Energy Technology Solutions (4 years)
+      - Industrial Automation & Control Systems Integration
     academicBackground:
-      field: 🎓 Software Engineering (7 years)
+      field: Software Engineering (7 years)
     specialisations:
-      - category: 🌐 Domains
+      - category: Domains
         items:
           - 🌎 IoT
           - 🏗️ Microservices
