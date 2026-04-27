@@ -88,6 +88,5 @@ human:
     - category: 💪 Health and Fitness
       items:
         - 🏋️‍♂️ Weightlifting (current strength training focus)
-        - 😴 Sleep / Recovery Optimisation
-        - 🏃‍♂️ Cardio Fitness (Tabata / HIIT / Zone 5 training)
+        - 🏃‍♂️ Cardio Fitness (Tabata)
 ```
