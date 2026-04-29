@@ -21,7 +21,7 @@ human:
           - 🏗️ Microservices
           - 🚪 Gateways
           - 🔌 APIs
-          - 🤖 AI Integrations (SpringAI / Node.js / Prompt Engineering)
+          - 🤖 AI Integrations (OpenAI / Grok / Node.js / Prompt Engineering)
           - 📈 Algorithmic Trading
       - category: 🖥️ Languages
         items:
