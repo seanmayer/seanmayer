@@ -26,9 +26,9 @@ human:
       - category: 🖥️ Languages
         items:
           - 🙌 Language agnostic
-          - ☕️ Java
+          - ☕️ Java (Springboot)
           - ⚙️ JavaScript (Node.js, Express)
-          - 🐍 Python
+          - 🐍 Python (Juypter Notebook)
           - 🅺 Kotlin
           - #️⃣ C#
           - ⚛️ ReactJS
