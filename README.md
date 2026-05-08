@@ -80,14 +80,13 @@ human:
   interests:
     - category: 🚀 New Technology Advancements
       items:
-        - 💻 Software Engineering
         - 🤖 AI (Prompt Engineering / LLM Comparisons / Automation / Agentic workflows)
         - 🪙 Blockchain
         - 🖥️ Programming Languages
         - 📈 Algorithmic Trading
-        - 🌎 IoT / Smart Home Integration
+        - 🌎 IoT Projects and Smart Home Integration
     - category: 💪 Health and Fitness
       items:
         - 🏋️‍♂️ Weightlifting (current strength training focus)
-        - 🏃‍♂️ Cardio Fitness (Tabata)
+        - 🏃‍♂️ Cardio Fitness (Tabata... justifiable pain)
 ```
