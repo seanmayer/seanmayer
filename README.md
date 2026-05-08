@@ -30,7 +30,7 @@ human:
           - ⚙️ JavaScript (Node.js, Express)
           - 🐍 Python (Juypter Notebook)
           - 🅺 Kotlin
-          - #️⃣ C#
+          - 🪟.NET
           - 🕸️ Xamarin (Old but was my final year uni project)
           - ⚛️ ReactJS
           - 📝 Markdown (blog formatting & SEO optimisation)
