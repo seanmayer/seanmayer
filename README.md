@@ -31,6 +31,7 @@ human:
           - 🐍 Python (Juypter Notebook)
           - 🅺 Kotlin
           - #️⃣ C#
+          - 🕸️ Xamarin (Old but was my final year uni project)
           - ⚛️ ReactJS
           - 📝 Markdown (blog formatting & SEO optimisation)
           - 🗂️ YAML / JSON (automation / blogging / pipelines)
