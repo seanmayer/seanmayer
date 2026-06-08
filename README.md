@@ -1,4 +1,4 @@
-_“For the things we have to learn before we can do them, we learn by doing them.”_ - Aristotle
+_“The heart has its reasons which reason knows nothing of."_ - Blaise Pascal
 
 ```yaml
 human:
