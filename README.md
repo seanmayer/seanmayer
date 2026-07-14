@@ -72,6 +72,7 @@ human:
     - 🎧 Listening to Podcasts
     - 📚 Reading Books
     - 🛠️ DIY / Home Improvement
+    - 🟥 3D Printing 
   bookGenres:
     - 📜 History
     - 📈 Self-Development
