@@ -22,7 +22,6 @@ human:
           - 🚪 Gateways
           - 🔌 APIs
           - 🤖 AI Integrations (OpenAI / Grok API)
-          - 📈 Algorithmic Trading
       - category: 🖥️ Languages
         items:
           - 🙌 Language agnostic
@@ -72,6 +71,7 @@ human:
     - 🎧 Listening to Podcasts
     - 📚 Reading Books
     - 🛠️ DIY / Home Improvement
+    - 📈 Algo Trading
     - 🟥 3D Printing
     - 🤖 Robotics
   bookGenres:
