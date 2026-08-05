@@ -21,7 +21,7 @@ human:
           - 🏗️ Microservices
           - 🚪 Gateways
           - 🔌 APIs
-          - 🤖 AI Integrations (OpenAI / Grok / Node.js / Prompt Engineering)
+          - 🤖 AI Integrations (OpenAI / Grok API)
           - 📈 Algorithmic Trading
       - category: 🖥️ Languages
         items:
@@ -72,7 +72,8 @@ human:
     - 🎧 Listening to Podcasts
     - 📚 Reading Books
     - 🛠️ DIY / Home Improvement
-    - 🟥 3D Printing 
+    - 🟥 3D Printing
+    - 🤖 Robotics
   bookGenres:
     - 📜 History
     - 📈 Self-Development
