@@ -78,7 +78,6 @@ human:
     - 📜 History
     - 📈 Self-Development
     - 👤 Autobiographies
-    - 🤖 Practical Technology (AI, Software)
   interests:
     - category: 🚀 New Technology Advancements
       items:
