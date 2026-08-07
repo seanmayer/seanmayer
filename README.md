@@ -8,7 +8,7 @@ human:
     lastName: Mayer
   profession:
     title: Software Engineer
-    currentIndustry: Fintech (3 years)
+    currentIndustry: Fintech (4 years)
     previousIndustries:
       - Energy Technology Solutions (4 years)
       - Industrial Automation & Control Systems Integration
